@@ -1,6 +1,6 @@
-# 🍕 Global-Student-Migration-Summary-2019-23(PowerBi Project)
+# 🚀 Global-Student-Migration-Summary-2019-23(PowerBi Project)
 This project is a comprehensive Power BI data analysis and visualization solution designed to transform raw data into meaningful business insights. The report provides an interactive dashboard that enables users to explore KPIs, track performance, and identify trends across different dimensions.
-## 1. Project Objectives
+## 1. 🚀 Project Objectives
 The main objective of this Power BI project is to:
 - Analyze complex datasets and extract actionable insights.  
 - Build an interactive and dynamic dashboard for decision-making.  
@@ -9,7 +9,7 @@ The main objective of this Power BI project is to:
 
 ---
 
-## 2. Tools & Technologies Used
+## 2. 🧰 Tools & Technologies Used
 - **Power BI Desktop** – For data modeling, visualization, and dashboard creation.  
 - **Excel / CSV** – Data source integration (update based on your dataset).  
 - **Power Query** – For ETL (Extract, Transform, Load) operations.  
@@ -18,7 +18,7 @@ The main objective of this Power BI project is to:
 
 ---
 
-## 3. Project Architecture
+## 3. 🧱 Project Architecture
 1. **Data Collection** – Import raw data from sources (Excel/SQL/CSV).  
 2. **Data Cleaning & Transformation** – Using Power Query for shaping the data.  
 3. **Data Modeling** – Establishing relationships between tables.  
@@ -28,7 +28,7 @@ The main objective of this Power BI project is to:
 
 ---
 
-## 4. Dashboard Features
+## 4. 📊 Dashboard Features
 - 📊 Interactive visuals with slicers and filters.  
 - 📈 Trend analysis (yearly/monthly/quarterly).  
 - 🔍 Drill-through & tooltips for deep insights.  
@@ -37,7 +37,7 @@ The main objective of this Power BI project is to:
 - 🌐 User-friendly layout for business decision-making.  
 
 ---
-
+## 5. 🔗 Live Demo / Report Access
 <img width="1416" height="836" alt="image" src="https://github.com/user-attachments/assets/a60b29f9-3f60-48a2-bedf-5152db2144ee" />
 <img width="1425" height="837" alt="image" src="https://github.com/user-attachments/assets/2570b6c3-cd26-4c21-97b1-f844854359d2" />
 <img width="1418" height="837" alt="image" src="https://github.com/user-attachments/assets/c351be61-ae72-483e-9708-c590a44b33f6" />
@@ -47,7 +47,7 @@ The main objective of this Power BI project is to:
 
 ---
 
-## 5. ✅ Deliverables
+## 6. ✅ Deliverables
 - Power BI `.pbix` file with complete dashboard.  
 - Clean and transformed dataset used for analysis.  
 - Documentation (this README) for GitHub.  
